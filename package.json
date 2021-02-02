@@ -1,0 +1,8 @@
+{
+  "name": "cli-table",
+  "version": "1.0.0",
+  "description": "create table in cli",
+  "main": "index.js",
+  "author": "mingchiao.wu <q9898989@gmail.com>",
+  "license": "MIT"
+}
